@@ -1,4 +1,5 @@
 # first_repository
 Hello
 World
-Mother Fucker!!!
+
+We start new project!
